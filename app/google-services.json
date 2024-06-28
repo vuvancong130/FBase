@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414818707227",
+    "project_id": "lab1-f36d1",
+    "storage_bucket": "lab1-f36d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414818707227:android:399a74cb04fec55f2315be",
+        "android_client_info": {
+          "package_name": "com.hrap.app.fbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmXDmnQozhStr9EN1nmuZXW_jK8ClHtqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
